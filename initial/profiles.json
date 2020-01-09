@@ -1,0 +1,5 @@
+{"firstName":"Bob", "lastName":"Lazar", "age":63, "team":"Patriots", "position":"qb"}
+{"firstName":"tom", "lastName":"brady", "age":41, "position":"qb", "team":"patriots"}
+{"firstName":"aaron", "lastName":"rodgers", "age":35, "position":"qb", "team":"packers"}
+{"firstName":"eli", "lastName":"manning", "age":37, "position":"qb", "team":"giants"}
+{"firstName":"odell", "lastName":"beckham", "age":24, "position":"wr", "team":"giants"}
